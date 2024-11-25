@@ -29,12 +29,11 @@ To run this project locally, clone the repository:
 ```bash
 git clone https://github.com/vik-bit/ChatBot-Landing-Page.git
 open terminal and
-then run npm install 
-then  run npm run dev(page.tsx  will open up located in the app folder inside src)
+then run (npm install --legacy-peer-deps) 
+then  run (npm run dev)(page.tsx  will open up located in the app folder inside src)
 Usage
 Customize Content: Modify the text, images, and links in src/app/page.tsx to match your chatbot service.
-Style It Your Way: Tweak the style.css to personalize the page's colors, fonts, and layout.
-Enhance with JavaScript: Add extra functionality or animations in the script.js file.
+
 
 
 
